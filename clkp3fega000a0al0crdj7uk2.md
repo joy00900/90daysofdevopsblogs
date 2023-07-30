@@ -1,5 +1,5 @@
 ---
-title: "Day 12 Linux & Git-GitHub Cheat Sheet"
+title: "Day 12 Linux & Git-GitHub Cheat Sheet."
 datePublished: Sun Jul 30 2023 07:01:44 GMT+0000 (Coordinated Universal Time)
 cuid: clkp3fega000a0al0crdj7uk2
 slug: day-12-linux-git-github-cheat-sheet
