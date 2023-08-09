@@ -51,7 +51,7 @@ By resolving merge conflicts, you can ensure that your code is in sync and ready
 
 # **5\. 📋 Task 1: Stashing and Applying Changes**
 
-n this task, our focus will be on branches, and we’ll explore how to utilize the “git stash” command to save changes temporarily without committing them. Simply follow these steps: 🌟
+In this task, our focus will be on branches, and we’ll explore how to utilize the “git stash” command to save changes temporarily without committing them. Simply follow these steps: 🌟
 
 1. Create a new branch 🌿 using the below command:
     
