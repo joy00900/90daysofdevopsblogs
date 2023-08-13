@@ -97,10 +97,11 @@ The keyword EXPOSE specifies the port number that needs to be exposed on the con
 
 The keyword VOLUME is used to inform users of the Docker image that certain directories within the container should be treated as volumes when running a container based on that image.
 
-# **2\. Task: Create a Dockerfile for a simple web application (e.g., a Node.js or Python app).  
+# 2\. Task: Create a Dockerfile for a simple web application (e.g., a Node.js or Python app).
+
 🏗️ Build the image using the Dockerfile and run the container.  
 👀 Verify that the application is working as expected by accessing it in a web browser.  
-🚀 Push the image to a public or private repository (e.g., Docker Hub).**
+🚀 Push the image to a public or private repository (e.g., Docker Hub).\*\*
 
 I have used the following repository for the task: [https://github.com/Azure-Samples/nodejs-docs-hello-world.git](https://github.com/Azure-Samples/nodejs-docs-hello-world.git)
 
