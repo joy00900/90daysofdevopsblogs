@@ -140,9 +140,9 @@ Manages `images`.
 docker rmi b750fe78269d
 ```
 
-Deletes `image`s.
+Deletes `images`
 
-# **Also, see**
+**Also, see**
 
 * [**Getting Started**](http://www.docker.io/gettingstarted/) *(*[***docker.io***](http://docker.io)*)*
     
@@ -593,7 +593,7 @@ The Docker Interview Questions Blog. Along with the answers!
     By using the command:
     
     1. ```plaintext
-        docker ps
+         docker ps
         ```
         
     2. **What is the command to run the container under a specific name?**
