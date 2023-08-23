@@ -134,7 +134,7 @@ docker network rm mynetwork
 
 Let us set up a multi-container Docker Compose file that brings up an application container and a database container, allowing you to start and stop them together.
 
-For that, the docker-compose needs to be installed. I have given a detailed explanation of the installation of docker-compose in the blog: [Docker Compose Installation](https://snehaksuresh.hashnode.dev/docker-compose-docker-for-devops#heading-task-1-learn-how-to-use-the-docker-composeyml-file-to-set-up-the-environment-configure-the-services-and-links-between-different-containers-and-also-to-use-environment-variables-in-the-docker-composeyml-file).
+For that, the docker-compose needs to be installed. I have given a detailed explanation of the installation of docker-compose in the blog: [Docker Compose Installation](https://harsh-rajotya.hashnode.dev/day-18-docker-compose-for-devops-engineers).
 
 So let us start with the docker-compose.yml file:
 
